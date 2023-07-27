@@ -13,3 +13,6 @@ Built recommendation page and rendered movies with **TMDB** API. It looks like t
 ## Sign-in Sign-out Functionality
 <img width="948" alt="image" src="https://github.com/ayushiagarawal1/Netflix_clone/assets/84909280/71a2b3e9-52df-4986-875b-ceecfb8d6354">
 <img width="955" alt="image" src="https://github.com/ayushiagarawal1/Netflix_clone/assets/84909280/b8d959b1-b678-4773-ba60-3ba0b3991c51">
+
+## Video Playing Page
+<img width="944" alt="image" src="https://github.com/ayushiagarawal1/Netflix_clone/assets/84909280/6ffd31c1-d7eb-431b-8673-71f0d50d849d">
