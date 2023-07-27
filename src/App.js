@@ -42,7 +42,7 @@ function App() {
             <Route path="/profile" element={<ProfileScreen />}></Route>
             <Route exact path="/" element={<HomeScreen />}></Route>
             <Route path="/home" element={<HomeScreen />}</Route>
-           <Route path="/video" element={ <MovieProvider><VideoScreen /></MovieProvider>}></Route>
+           <Route path="/video/:id" element={ <MovieProvider><VideoScreen /></MovieProvider>}></Route>
           </Routes>
         )}
       </BrowserRouter>
