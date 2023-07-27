@@ -40,7 +40,7 @@ function App() {
         ) : (
           <Routes>
             <Route path="/profile" element={<ProfileScreen />}></Route>
-            <Route exact path="/home" element={<HomeScreen />}></Route>
+            <Route exact path="/" element={<HomeScreen />}></Route>
            <Route path="/video/:123" element={ <MovieProvider><VideoScreen /></MovieProvider>}></Route>
           </Routes>
         )}
